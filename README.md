@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Aribel!
+
+## 📖 About Me
+I am a Computer Science graduate with a minor in Secure Computing & Networks (SCAN) and a former Undergraduate Learning Assistant from the University of Central Florida. Currently seeking employment with an interest in application/front-end development or software engineering.
 
 <!--
 **aribelruiz/aribelruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
